@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/BarbeariaShop/.vs/BarbeariaShop/DesignTimeBuild
+/BarbeariaShop/.vs/BarbeariaShop/FileContentIndex
+/BarbeariaShop/.vs
+/BarbeariaShop/Baber.Control/bin/Debug/net8.0
+/BarbeariaShop/Baber.Control/obj
+/BarbeariaShop/Baber.Model/bin/Debug/net8.0
+/BarbeariaShop/Baber.Model/obj
+/BarbeariaShop/BarbeariaShop.API/bin/Debug/net8.0
+/BarbeariaShop/BarbeariaShop.API/obj
+/BarbeariaShop/BarbeariaShop.Relatório/bin/Debug/net8.0
+/BarbeariaShop/BarbeariaShop.Relatório/obj
